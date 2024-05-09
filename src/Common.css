@@ -1,0 +1,53 @@
+body{
+background-color: #dfe6e9;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.tx-clr{
+    color: #cd6133;
+}
+
+.bttn{
+    background-color: #dfe6e9f7;
+color: black;
+border: none;
+width: 94%;
+}
+
+.bn{
+    background-color: #dfe6e9f7;
+    color: black;
+    border: none;
+}
+
+.wd{
+    width: 94%;
+}
+
+.ht{
+    height: 94vh;
+}
+
+.cir{
+    background-color: red;
+    height: 15%;
+    width: 20%;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    left: 18px;
+}
+
+.yu{
+    height: 83vh;
+    overflow-y:scroll;
+}
+
+.cp{
+    cursor: pointer;
+}
